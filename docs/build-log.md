@@ -11,3 +11,7 @@
 - Concept model and 2D views in Blender
 - Started this repo
 
+### 2026-10-26: Ratchet test rig
+- Modeled a single-rod printable test rig in Fusion with working joints
+- Slot pitch changed to 10 mm, release cam changed to a curved profile, button return springs added
+- Exported CAD and STLs to `parts/handle/`
